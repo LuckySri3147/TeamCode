@@ -4,7 +4,7 @@ public class Assignment13 {
 
 	 void add()
 	{
-		System.out.println("non-static method 1");
+		System.out.println("non-static method 1 -");
 	}
 	
 	 void sub()
